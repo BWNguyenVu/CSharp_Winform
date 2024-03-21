@@ -1,0 +1,16 @@
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\bin\Debug\net8.0\TestManager.deps.json
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\bin\Debug\net8.0\TestManager.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\bin\Debug\net8.0\TestManager.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\bin\Debug\net8.0\Repositories.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\bin\Debug\net8.0\Repositories.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.csproj.AssemblyReference.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.AssemblyInfoInputs.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.AssemblyInfo.cs
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.csproj.CoreCompileInputs.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.sourcelink.json
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestMana.761240E8.Up2Date
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\refint\TestManager.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\TestManager.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_NguyenVuDatabase\TestManager\obj\Debug\net8.0\ref\TestManager.dll

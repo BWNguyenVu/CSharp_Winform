@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BookManagement_HoangNgocTrinh/1.0.0": {
+        "dependencies": {
+          "Services": "1.0.0"
+        },
+        "runtime": {
+          "BookManagement_HoangNgocTrinh.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "runtime": {
+          "Repositories.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "dependencies": {
+          "Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookManagement_HoangNgocTrinh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

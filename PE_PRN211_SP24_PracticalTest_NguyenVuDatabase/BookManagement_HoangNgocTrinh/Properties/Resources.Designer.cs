@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BookManagement_HoangNgocTrinh.Properties {
+namespace BookManagement_DoHuynhNguyenVu.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace BookManagement_HoangNgocTrinh.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BookManagement_HoangNgocTrinh.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BookManagement_DoHuynhNguyenVu.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
