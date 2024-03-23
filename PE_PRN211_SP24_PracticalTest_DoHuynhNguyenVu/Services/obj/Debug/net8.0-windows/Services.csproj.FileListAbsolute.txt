@@ -1,0 +1,16 @@
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\bin\Debug\net8.0-windows\Services.deps.json
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\bin\Debug\net8.0-windows\Services.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\bin\Debug\net8.0-windows\Services.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\bin\Debug\net8.0-windows\Repositories.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\bin\Debug\net8.0-windows\Repositories.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.csproj.AssemblyReference.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.AssemblyInfoInputs.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.AssemblyInfo.cs
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.csproj.CoreCompileInputs.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.sourcelink.json
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.csproj.Up2Date
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\refint\Services.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\Services.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Services\obj\Debug\net8.0-windows\ref\Services.dll

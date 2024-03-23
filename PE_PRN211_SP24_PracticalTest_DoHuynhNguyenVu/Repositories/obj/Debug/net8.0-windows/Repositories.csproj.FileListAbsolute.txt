@@ -1,0 +1,15 @@
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\bin\Debug\net8.0-windows\Repositories.deps.json
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\bin\Debug\net8.0-windows\Repositories.runtimeconfig.json
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\bin\Debug\net8.0-windows\Repositories.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\bin\Debug\net8.0-windows\Repositories.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.csproj.AssemblyReference.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.AssemblyInfoInputs.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.AssemblyInfo.cs
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.csproj.CoreCompileInputs.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.sourcelink.json
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\refint\Repositories.dll
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.pdb
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\Repositories.genruntimeconfig.cache
+D:\Goc_cua_Vu\CSharp\School\CSharp_Winform\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\Repositories\obj\Debug\net8.0-windows\ref\Repositories.dll

@@ -59,26 +59,60 @@ namespace BookManagement_HoangNgocTrinh
             //NẾU CÓ SÁCH THÌ FILL VÀO CÁC Ô
             if (SelectedBook != null)
             {
+                txtBookId.Enabled = false;//disable the Id
+                                          //can not change the primary key
+                lblHeader.Text = "Update a selected book";
                 txtBookId.Text = SelectedBook.BookId.ToString();
                 txtBookName.Text = SelectedBook.BookName;
                 txtDescription.Text = SelectedBook.Description;
+                dtpPublicationDate.Text = SelectedBook.PublicationDate.ToString();
+                txtQuantity.Text = SelectedBook.Quantity.ToString();
+                txtPrice.Text = SelectedBook.Price.ToString();
+                txtAuthor.Text = SelectedBook.Author.ToString();
                 //...
                 cboBookCategoryId.SelectedValue = SelectedBook.BookCategoryId;  //1 2 3 4 5
                 //tuỳ sách có cate gì thì jump đến số đó!!!
 
             }
+            else
+                lblHeader.Text = "Create a new book";
 
-
-        }
-
-        private void btnSave_Click(object sender, EventArgs e)
-        {
 
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            //WE WILL CALL THE SERVICE TO HELP UPDATING A BOOK
+            //BUT AT FIRST, WE NEED TO CREATE A BOOK WITH THE UPDATE INFO
+            //NOT CREATE A NEW ONW
+            Book book = new Book()
+            {
+                BookId = int.Parse(txtBookId.Text),
+                BookName = txtBookName.Text,
+                Description = txtDescription.Text,
+                PublicationDate = dtpPublicationDate.Value,
+                Quantity = int.Parse(txtQuantity.Text),
+                Price = double.Parse(txtPrice.Text),
+                Author = txtAuthor.Text,
+                BookCategoryId = int.Parse(cboBookCategoryId.SelectedValue.ToString())
+            };
+            //check if we are in new or in edit
+            BookService service = new();
+            if (SelectedBook != null)
+            {
+                service.UpdateABookFromUserInput(book);
+            }
+            else
+            {
+                service.DeleteABookFromUserSelected(book);
+            }
+            //close the form
+            Close();
         }
     }
 }

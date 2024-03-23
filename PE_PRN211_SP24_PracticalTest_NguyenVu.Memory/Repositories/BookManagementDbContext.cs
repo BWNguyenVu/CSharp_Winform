@@ -16,22 +16,22 @@ public partial class BookManagementDbContext : DbContext
         : base(options)
     {
     }
-
-    public virtual DbSet<Book> Books { get; set; }
-
-    public virtual DbSet<BookCategory> BookCategories { get; set; }
-
-    public virtual DbSet<UserAccount> UserAccounts { get; set; }
     private string? GetConnectionString()
     {
         IConfiguration config = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", true, true).Build();
-        var strConn = config["ConnectionStrings:DefaultConnectionStringDB"];
+        var strConn = config["ConnectionStrings:DBDefault"];
         return strConn;
     }
+    public virtual DbSet<Book> Books { get; set; }
+
+    public virtual DbSet<BookCategory> BookCategories { get; set; }
+
+    public virtual DbSet<UserAccount> UserAccounts { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer(GetConnectionString());
+            => optionsBuilder.UseSqlServer(GetConnectionString());
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

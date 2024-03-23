@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|d:\\goc_cua_vu\\csharp\\school\\csharp_winform\\pe_prn211_sp24_practicaltest_dohuynhnguyenvu\\bookmanagement_dohuynhnguyenvu\\bookmanagement_dohuynhnguyenvu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookmanagement_dohuynhnguyenvu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|d:\\goc_cua_vu\\csharp\\school\\csharp_winform\\pe_prn211_sp24_practicaltest_dohuynhnguyenvu\\bookmanagement_dohuynhnguyenvu\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\bookdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936BD9-3818-4F09-AC56-0E1BA9608EDF}|Services\\Services.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B936BD9-3818-4F09-AC56-0E1BA9608EDF}|Services\\Services.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\bookmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936BD9-3818-4F09-AC56-0E1BA9608EDF}|Services\\Services.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\services\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B936BD9-3818-4F09-AC56-0E1BA9608EDF}|Services\\Services.csproj|solutionrelative:services\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\repositories\\bookcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B936BD9-3818-4F09-AC56-0E1BA9608EDF}|Services\\Services.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B936BD9-3818-4F09-AC56-0E1BA9608EDF}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\repositories\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\bookmanagement_dohuynhnguyenvu\\bookmanager.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{85E5F441-D047-4D5C-8402-2F80773ECCDA}|BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj|solutionrelative:bookmanagement_dohuynhnguyenvu\\bookmanager.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\repositories\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\repositories\\entities\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\repositories\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52198B5B-2537-4577-B7A8-CF856891A8A3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagement_DoHuynhNguyenVu",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T10:23:15.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookManager.cs [Design]",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookManager.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.cs [Design]",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:27:07.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDetails.cs [Design]",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookDetails.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookDetails.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookDetails.cs [Design]",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:21:57.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDetails.Designer.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookDetails.Designer.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookDetails.Designer.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookDetails.Designer.cs",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookDetails.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:21:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookDetails.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookDetails.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookDetails.cs",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookDetails.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIA5wCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:20:33.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\UserLogin.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\UserLogin.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\UserLogin.cs [Design]",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\UserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:45:57.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookManager.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.cs",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookManager.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:27:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\Program.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\Program.cs",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:06:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:24:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:09:46.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookManager.Designer.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.Designer.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookManager.Designer.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.Designer.cs",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookManager.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:47:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookCategoryService.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Services\\BookCategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\BookCategoryService.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Services\\BookCategoryService.cs",
+              "RelativeToolTip": "Services\\BookCategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:12:39.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\BookCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookCategoryRepository.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\BookCategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\BookCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:13:14.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookManagementDbContext.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\BookManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookManagementDbContext.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\BookManagementDbContext.cs",
+              "RelativeToolTip": "Repositories\\BookManagementDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:25:06.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:50:30.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\UserLogin.cs",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\UserLogin.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\UserLogin.cs",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\UserLogin.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIA1wCIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:48:20.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:51:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookManager.resx",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.resx",
+              "RelativeDocumentMoniker": "BookManagement_DoHuynhNguyenVu\\BookManager.resx",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\BookManagement_DoHuynhNguyenVu\\BookManager.resx",
+              "RelativeToolTip": "BookManagement_DoHuynhNguyenVu\\BookManager.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-21T16:06:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\Book.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\Entities\\Book.cs",
+              "RelativeToolTip": "Repositories\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:26:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\Entities\\BookCategory.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\BookCategory.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\Entities\\BookCategory.cs",
+              "RelativeToolTip": "Repositories\\Entities\\BookCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:31:42.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\Entities\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\UserAccount.cs",
+              "ToolTip": "D:\\Goc_cua_Vu\\CSharp\\School\\CSharp_Winform\\PE_PRN211_SP24_PracticalTest_DoHuynhNguyenVu\\Repositories\\Entities\\UserAccount.cs",
+              "RelativeToolTip": "Repositories\\Entities\\UserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:31:45.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

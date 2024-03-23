@@ -54,7 +54,7 @@
             // btnSave
             // 
             btnSave.FlatStyle = FlatStyle.Flat;
-            btnSave.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            btnSave.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             btnSave.ForeColor = Color.Yellow;
             btnSave.Location = new Point(1372, 160);
             btnSave.Margin = new Padding(4);
@@ -83,13 +83,13 @@
             grbBookInfo.Controls.Add(txtBookId);
             grbBookInfo.Controls.Add(lblBookName);
             grbBookInfo.Controls.Add(lblBookID);
-            grbBookInfo.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            grbBookInfo.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             grbBookInfo.ForeColor = Color.Yellow;
             grbBookInfo.Location = new Point(62, 141);
             grbBookInfo.Margin = new Padding(4);
             grbBookInfo.Name = "grbBookInfo";
             grbBookInfo.Padding = new Padding(4);
-            grbBookInfo.Size = new Size(1278, 719);
+            grbBookInfo.Size = new Size(1302, 719);
             grbBookInfo.TabIndex = 0;
             grbBookInfo.TabStop = false;
             grbBookInfo.Text = " Book Info ";
@@ -115,7 +115,7 @@
             // lblPrice
             // 
             lblPrice.AutoSize = true;
-            lblPrice.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblPrice.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblPrice.ForeColor = Color.Yellow;
             lblPrice.Location = new Point(882, 485);
             lblPrice.Margin = new Padding(4, 0, 4, 0);
@@ -161,7 +161,7 @@
             // lblCategory
             // 
             lblCategory.AutoSize = true;
-            lblCategory.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblCategory.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblCategory.ForeColor = Color.Yellow;
             lblCategory.Location = new Point(44, 642);
             lblCategory.Margin = new Padding(4, 0, 4, 0);
@@ -173,7 +173,7 @@
             // lblAuthor
             // 
             lblAuthor.AutoSize = true;
-            lblAuthor.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblAuthor.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblAuthor.ForeColor = Color.Yellow;
             lblAuthor.Location = new Point(44, 565);
             lblAuthor.Margin = new Padding(4, 0, 4, 0);
@@ -185,7 +185,7 @@
             // lblQuantity
             // 
             lblQuantity.AutoSize = true;
-            lblQuantity.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblQuantity.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblQuantity.ForeColor = Color.Yellow;
             lblQuantity.Location = new Point(44, 485);
             lblQuantity.Margin = new Padding(4, 0, 4, 0);
@@ -197,7 +197,7 @@
             // lblPublicationDate
             // 
             lblPublicationDate.AutoSize = true;
-            lblPublicationDate.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblPublicationDate.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblPublicationDate.ForeColor = Color.Yellow;
             lblPublicationDate.Location = new Point(44, 415);
             lblPublicationDate.Margin = new Padding(4, 0, 4, 0);
@@ -209,7 +209,7 @@
             // lblDescription
             // 
             lblDescription.AutoSize = true;
-            lblDescription.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblDescription.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblDescription.ForeColor = Color.Yellow;
             lblDescription.Location = new Point(44, 229);
             lblDescription.Margin = new Padding(4, 0, 4, 0);
@@ -237,7 +237,7 @@
             // lblBookName
             // 
             lblBookName.AutoSize = true;
-            lblBookName.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblBookName.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblBookName.ForeColor = Color.Yellow;
             lblBookName.Location = new Point(44, 149);
             lblBookName.Margin = new Padding(4, 0, 4, 0);
@@ -249,7 +249,7 @@
             // lblBookID
             // 
             lblBookID.AutoSize = true;
-            lblBookID.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            lblBookID.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             lblBookID.ForeColor = Color.Yellow;
             lblBookID.Location = new Point(44, 75);
             lblBookID.Margin = new Padding(4, 0, 4, 0);
@@ -261,7 +261,7 @@
             // lblHeader
             // 
             lblHeader.AutoSize = true;
-            lblHeader.Font = new Font("Segoe UI", 25.8000011F, FontStyle.Bold, GraphicsUnit.Point);
+            lblHeader.Font = new Font("Segoe UI", 25.8000011F, FontStyle.Bold);
             lblHeader.ForeColor = Color.Yellow;
             lblHeader.Location = new Point(40, 26);
             lblHeader.Margin = new Padding(4, 0, 4, 0);
@@ -273,7 +273,7 @@
             // btnCancel
             // 
             btnCancel.FlatStyle = FlatStyle.Flat;
-            btnCancel.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
+            btnCancel.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold);
             btnCancel.ForeColor = Color.Yellow;
             btnCancel.Location = new Point(1372, 270);
             btnCancel.Margin = new Padding(4);

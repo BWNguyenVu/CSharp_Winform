@@ -1,5 +1,6 @@
 ﻿using Repositories.Entities;
 using Services;
+using static System.ComponentModel.Design.ObjectSelectorEditor;
 
 namespace BookManagement_HoangNgocTrinh
 {
@@ -9,15 +10,19 @@ namespace BookManagement_HoangNgocTrinh
         {
             InitializeComponent();
         }
+        private Book _selected = null;
+        private BookService service = new BookService();
 
-        public void BookManagerMainUI_Load(object sender, EventArgs e)
+        // a method to refresh the grid to refill the grid, it is to be used by 
+        //many button: DELETE, CREATE, UPDATE
+        private void FillDataGridView()
         {
-            //gọi Services để cung cấp data vào grid/table
-            BookService service = new BookService();
-
             dgvBookList.DataSource = null; //xoá trắng grid
             dgvBookList.DataSource = service.GetAllBooks();
-            //                               hàm I trả về all books
+        }
+        public void BookManagerMainUI_Load(object sender, EventArgs e)
+        {
+            FillDataGridView();
         }
 
         private void grbSearchCriteria_Enter(object sender, EventArgs e)
@@ -33,6 +38,8 @@ namespace BookManagement_HoangNgocTrinh
             //thêm phần render
             BookDetailForm f = new BookDetailForm();
             f.ShowDialog(); //render đi em 
+
+            FillDataGridView();
             //f.Show(); //nguy hiểm nhen, vì cứ new là có object, cửa sổ mới!!!
 
         }
@@ -75,12 +82,31 @@ namespace BookManagement_HoangNgocTrinh
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
+            //MessageBox.Show(book.BookId + " | " + book.BookName + " | " + book.Description + " | " + book.BookCategoryId);
+            if (_selected != null)
+            {
+                BookDetailForm detail = new BookDetailForm();
+                detail.SelectedBook = _selected; // patse the selected book to the detail form
+                detail.ShowDialog();
+                //refresh the grid
+                FillDataGridView();
+            }
+            else
+            {
+                MessageBox.Show("Please select a certain book to edit", "Select one book", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+
 
         }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void dgvBookList_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

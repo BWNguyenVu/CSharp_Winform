@@ -1,5 +1,0 @@
-{
-    "ConnectionStrings":{
-        "DefaultConnectionStringDB": "Data Source=(local);Initial Catalog=BookManagementDb;User ID=sa;Password=sa123456;Trusted_Connection=True;Trust Server Certificate=True"
-    }
-}
